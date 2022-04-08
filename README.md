@@ -1,5 +1,5 @@
 #README.md
-## 该脚本由善良的小凡凡编写，感谢[Mashiro]大佬提供的文件们~。
+## 该脚本由善良的小凡凡编写，感谢[Mashiro]、[SuperManito]大佬们提供的文件~。
 ### *这些文件仅仅适用于中国大陆用户使用Linux系统访问Windows以及Mac请访问Mashiro大佬官方网址*
 
 **请勿修改'Access-Pixiv.sh'否则后果自负。**
